@@ -1,8 +1,8 @@
 //
 //  ResourceType.swift
-//  TinyNetworking
+//  Networking
 //
-//  Created by Nikita Velichkin on 29.03.18.
+//  Created by Nikita Velichkin on 07/11/2019.
 //
 
 import Foundation

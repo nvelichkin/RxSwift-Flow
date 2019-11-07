@@ -1,8 +1,8 @@
 //
-//  TinyNetworkingError.swift
-//  TinyNetworking
+//  NetworkingError.swift
+//  Networking
 //
-//  Created by Nikita Velichkin on 12.09.19.
+//  Created by Nikita Velichkin on 07/11/2019.
 //  Copyright © 2019 Nikita Velichkin. All rights reserved.
 //
 

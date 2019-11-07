@@ -1,8 +1,8 @@
 //
 //  URLEncoding.swift
-//  TinyNetworking
+//  Networking
 //
-//  Created by Nikita Velichkin on 22.11.18.
+//  Created by Nikita Velichkin on 07/11/2019.
 //  Copyright © 2019 Nikita Velichkin. All rights reserved.
 //
 
