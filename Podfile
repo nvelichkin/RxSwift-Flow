@@ -6,5 +6,4 @@ target 'RxFlow-Unsplash' do
   pod 'RxSwift' 
   pod 'RxFlow'
   pod 'RxDataSources'
-  pod 'TinyNetworking'
 end
