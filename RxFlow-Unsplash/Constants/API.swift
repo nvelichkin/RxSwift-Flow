@@ -8,4 +8,5 @@
 
 import Foundation
 
-let UNSPLASH_API_KEY = ""
+let UNSPLASH_SECRET_KEY = ProcessInfo.processInfo.environment["UNSPLASH_SECRET_KEY"] ?? ""
+let UNSPLASH_ACCESS_KEY = ProcessInfo.processInfo.environment["UNSPLASH_ACCESS_KEY"] ?? ""
