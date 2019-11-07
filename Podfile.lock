@@ -1,0 +1,48 @@
+PODS:
+  - Differentiator (4.0.1)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxFlow (2.4.0):
+    - RxCocoa (>= 5.0.0)
+    - RxSwift (>= 5.0.0)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - TinyNetworking (3.0.0):
+    - TinyNetworking/Core (= 3.0.0)
+  - TinyNetworking/Core (3.0.0)
+
+DEPENDENCIES:
+  - RxCocoa
+  - RxDataSources
+  - RxFlow
+  - RxSwift
+  - TinyNetworking
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Differentiator
+    - RxCocoa
+    - RxDataSources
+    - RxFlow
+    - RxRelay
+    - RxSwift
+    - TinyNetworking
+
+SPEC CHECKSUMS:
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxFlow: d8342d7ba30f78f509f84cf1d801fbd540406870
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  TinyNetworking: 8e10bcb748c1f3cf8593bbf5891c36e9b2c3b2fb
+
+PODFILE CHECKSUM: 72bfe3ab4d24509c17761e9d7afa7eab6871feeb
+
+COCOAPODS: 1.7.5
